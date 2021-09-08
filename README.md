@@ -17,7 +17,7 @@ Submission will be assigned `2` points each week a coding discussion is assigned
    5  |        Week 11        |  November 10
    6  |        Week 12        |  November 17
    
-The goal of the coding discussions is to apply a concept learned during the week in a way that helps build a greater level of programming fluency. Programming skills are honed through active usage and repetition. Learning to read other people’s code and detecting issues is vital to successful collaborations in applied work. The point is not to be “right” necessarily but rather to try, learn, and collaborate. As such, when receiving suggested edit requests.
+The goal of the coding discussions is to apply a concept learned during the week in a way that helps build a greater level of programming fluency. Programming skills are honed through active usage and repetition. Learning to read other people’s code and detecting issues is vital to successful collaborations in applied work. The point is not to be “right” necessarily but rather to try, learn, and collaborate.
 
 
 
