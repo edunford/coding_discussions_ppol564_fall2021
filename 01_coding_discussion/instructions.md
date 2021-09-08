@@ -4,7 +4,7 @@
 
 For this discussion, please do the following: 
 
-- Clone the class Github repository `coding_discussions_ppol564_fall2019`.
+- Clone the class Github repository `coding_discussions_ppol564_fall2021`.
 - In the repostory, you'll find the "01_coding_discussion/" containing a `.txt` file entitled `first_collaboration.txt`. In the file, write your full name plus (a) a sentence/paragraph regarding why you chose to come to public policy school and what aspect of public policy interests you most, (b) a sentence regarding one thing new you learned in class this week that you did not previously know. Each of these points should occupy a new line.
 
 	```
@@ -21,4 +21,4 @@ For this discussion, please do the following:
 
 ## Aim
 
-In this coding discussion, we will have done four things: (1) interacted and mutually collaborated on a mock project file, (2) downloaded a repository, edited it locally, and then pushed it back to the remote, and (3) dealt with some basic version conflict errors.
+In this coding discussion, we will have done four things: (1) added you as a contributor to the class git repo, (2) interacted and mutually collaborated on a mock project file, (3) downloaded a repository, edited it locally, and then pushed it back to the remote, and (4) dealt with some basic version conflict errors.
