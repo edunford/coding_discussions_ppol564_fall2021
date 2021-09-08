@@ -1,6 +1,6 @@
 # PPOL564 | Coding Discussions
 
-The following repository houses all coding discussion for PPOL564 for the Fall 2020 term. New discussions will be posted in new folders with a instruction in each regarding the student task. All student work will be public. 
+The following repository houses all coding discussion for PPOL564 for the Fall 2021 term. New discussions will be posted in new folders with a instruction in each regarding the student task. All student work will be public. 
 
 Most weeks there will be a coding problem/prompt/dataset to explore pushed to the class Github repository. Students enrolled in PPOL564 will be required to submit an original response to the week's prompt. 
 
