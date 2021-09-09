@@ -1,1 +1,5 @@
 -
+
+Ryan Ripper
+a. I decided to come to a public policy school in order to combine my applied and computational math background with my experience in healthcare consulting in order to support decision makers.
+b. I learned the value of git and how to use its functionality to organize and work with team members.
