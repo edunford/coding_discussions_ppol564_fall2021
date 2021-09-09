@@ -6,3 +6,7 @@
 Ryan Ripper
 a. I decided to come to a public policy school in order to combine my applied and computational math background with my experience in healthcare consulting in order to support decision makers.
 b. I learned the value of git and how to use its functionality to organize and work with team members.
+
+Xavier Adomatis
+a. I came here to gain the capacity to work with complex and textual banking data so i can pursue a career in regulation
+b. I learned how to install like 60 programs to my laptop and still use only one of them
