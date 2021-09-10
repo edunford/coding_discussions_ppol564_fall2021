@@ -14,3 +14,7 @@ b. I learned how to install like 60 programs to my laptop and still use only one
 Kelly Looman 
 a. I decided to come to this program because I wanted to strengthen my STEM skills while being able to apply them in a meaningful way. 
 b. I learned how to clone a git repository! 
+
+Colette Yeager
+a. I decided to come to a public policy school to be able to apply my math and technical skills in a way that creates positive change and makes a difference.
+b. I learned how to use git from the command line rather than just pushing to GitHub from Atom
