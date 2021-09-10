@@ -18,3 +18,7 @@ b. I learned how to clone a git repository!
 Colette Yeager
 a. I decided to come to a public policy school to be able to apply my math and technical skills in a way that creates positive change and makes a difference.
 b. I learned how to use git from the command line rather than just pushing to GitHub from Atom
+
+Yifan Liu
+a. I decided to join this public policy school and this program because I want to learn some quantitative and analytical skill and pursue my interest in fiscal policy.
+b. I learned how to create a scatterplot in R.
