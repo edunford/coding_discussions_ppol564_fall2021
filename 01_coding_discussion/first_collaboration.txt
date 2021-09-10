@@ -22,3 +22,7 @@ b. I learned how to use git from the command line rather than just pushing to Gi
 Yifan Liu
 a. I decided to join this public policy school and this program because I want to learn some quantitative and analytical skill and pursue my interest in fiscal policy.
 b. I learned how to create a scatterplot in R.
+
+Lawand Yaseen
+a. I wanted to attend a public policy school in pursuit of a skillset that is equipped to engage and participate in decision making processes. 
+b. I learned how versatile the terminal is on a Mac and how easy it is to access public facing files using it. 
