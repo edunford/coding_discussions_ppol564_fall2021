@@ -46,3 +46,7 @@ b. I learned new techniques for R and finally understood how git really works un
 Phil Cork
 a. I chose this program to deepen my technical skills and apply them to a dedicated domain.
 b. I got a better understanding of how git actually works rather than just the commands to type in with fingers crossed.
+
+Sai Srujana Illa
+a. I decided to attend policy school as policy studies interest me. I chose this program in particular to build datascience skills for application into the policy area.
+b. I learned that command line can help you navigate through the computer more efficinetly and make it work for you.
