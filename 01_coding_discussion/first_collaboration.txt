@@ -34,3 +34,7 @@ b. I learned how to use Git (which I have never used before!) and develop a way 
 Josh Rosen
 a. I decided to attend this program to increase my capacity for (quantitative) policy research.
 b. I learned how to close a git repository! 
+
+Peijin Li
+a. I chose public policy school because I want to learn how to make data serve people and the society better.
+b. I learned about git and its usefulness in teamwork.
