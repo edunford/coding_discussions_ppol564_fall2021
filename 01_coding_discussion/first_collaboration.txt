@@ -30,3 +30,7 @@ b. I learned how versatile the terminal is on a Mac and how easy it is to access
 Anandi Gupta
 a. I wanted to attend a policy school so that I could become equipped to apply my statistical knowledge and data analysis skills to policy questions that I am passionate about.
 b. I learned how to use Git (which I have never used before!) and develop a way to manage my messy desktop.
+
+Josh Rosen
+a. I decided to attend this program to increase my capacity for (quantitative) policy research.
+b. I learned how to close a git repository! 
