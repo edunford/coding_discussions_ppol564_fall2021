@@ -38,3 +38,7 @@ b. I learned how to close a git repository!
 Peijin Li
 a. I chose public policy school because I want to learn how to make data serve people and the society better.
 b. I learned about git and its usefulness in teamwork.
+
+Rahul Shrivastava
+a. I chose this program to gain the skill set for using massive data to help shape better solutions for companies, governments, and society.
+b. I learned new techniques for R and finally understood how git really works under the hood (I have used git before).
