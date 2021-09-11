@@ -50,3 +50,7 @@ b. I got a better understanding of how git actually works rather than just the c
 Sai Srujana Illa
 a. I decided to attend policy school as policy studies interest me. I chose this program in particular to build datascience skills for application into the policy area.
 b. I learned that command line can help you navigate through the computer more efficinetly and make it work for you.
+
+Abigail Paterson
+a. I am attending policy school because I have always wanted to do my part to make the world a better place, and I feel like this is the best place for me to apply my skills in data analysis in that way.
+b. I have learned a lot of R syntax!
