@@ -42,3 +42,7 @@ b. I learned about git and its usefulness in teamwork.
 Rahul Shrivastava
 a. I chose this program to gain the skill set for using massive data to help shape better solutions for companies, governments, and society.
 b. I learned new techniques for R and finally understood how git really works under the hood (I have used git before).
+
+Phil Cork
+a. I chose this program to deepdn my technical skills and apply them to a dedicated domain.
+b. I got a better understanding of how git actually works rather than just the commands to type in with fingers crossed.
