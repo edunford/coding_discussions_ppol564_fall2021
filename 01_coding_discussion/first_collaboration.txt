@@ -71,3 +71,6 @@ Joanne Lauer
 a. I chose this program because it combined public policy and data science, allowing me to combine my two passions and strengthen my data science skills.  
 b. I finally feel comfortable with git branches.  I've used git in the past but always felt like there was so much mystery behind how it worked.  
  
+Audrey McIntyre
+a. I chose this program because I want to make the world a better place, and I think policy and data are both important tools for this.
+b. I've learned the basics of git! 
