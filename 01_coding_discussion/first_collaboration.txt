@@ -105,4 +105,5 @@ b. I learned what Git is and what Git Hub does.
 
 Naiqiu (Lawrence) Zhan
 a. I decided to go to a public policy school because my ex suggested me this program, and I think it is useful.
-b. I learned what git is the difference between git and git hub. 
+b. I learned what git is the difference between git and git hub..
+
