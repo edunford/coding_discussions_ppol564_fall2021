@@ -1,6 +1,6 @@
 -
  Sam LeBlanc
- a. I decided to come to a public policy school because I was tired of learning pure math without any hope of it being put to good use in my lifettime. 
+ a. I decided to come to a public policy school because I was tired of learning pure math without any hope of it being put to good use in my lifettime.
  b. I learned about how to organize my computer file structure in a way that doesn't look like a virtual hurricane hit my directories.
 
 Ryan Ripper
@@ -11,9 +11,9 @@ Xavier Adomatis
 a. I came here to gain the capacity to work with complex and textual banking data so i can pursue a career in regulation
 b. I learned how to install like 60 programs to my laptop and still use only one of them
 
-Kelly Looman 
-a. I decided to come to this program because I wanted to strengthen my STEM skills while being able to apply them in a meaningful way. 
-b. I learned how to clone a git repository! 
+Kelly Looman
+a. I decided to come to this program because I wanted to strengthen my STEM skills while being able to apply them in a meaningful way.
+b. I learned how to clone a git repository!
 
 Colette Yeager
 a. I decided to come to a public policy school to be able to apply my math and technical skills in a way that creates positive change and makes a difference.
@@ -24,8 +24,8 @@ a. I decided to join this public policy school and this program because I want t
 b. I learned how to create a scatterplot in R.
 
 Lawand Yaseen
-a. I wanted to attend a public policy school in pursuit of a skillset that is equipped to engage and participate in decision making processes. 
-b. I learned how versatile the terminal is on a Mac and how easy it is to access public facing files using it. 
+a. I wanted to attend a public policy school in pursuit of a skillset that is equipped to engage and participate in decision making processes.
+b. I learned how versatile the terminal is on a Mac and how easy it is to access public facing files using it.
 
 Anandi Gupta
 a. I wanted to attend a policy school so that I could become equipped to apply my statistical knowledge and data analysis skills to policy questions that I am passionate about.
@@ -33,7 +33,7 @@ b. I learned how to use Git (which I have never used before!) and develop a way 
 
 Josh Rosen
 a. I decided to attend this program to increase my capacity for (quantitative) policy research.
-b. I learned how to close a git repository! 
+b. I learned how to close a git repository!
 
 Peijin Li
 a. I chose public policy school because I want to learn how to make data serve people and the society better.
@@ -68,13 +68,17 @@ a. I chose public policy to meet people who also care about social issues and to
 b. I learned to use the'gitk' command on window's terminal.
 
 Joanne Lauer
-a. I chose this program because it combined public policy and data science, allowing me to combine my two passions and strengthen my data science skills.  
-b. I finally feel comfortable with git branches.  I've used git in the past but always felt like there was so much mystery behind how it worked.  
- 
+a. I chose this program because it combined public policy and data science, allowing me to combine my two passions and strengthen my data science skills.
+b. I finally feel comfortable with git branches.  I've used git in the past but always felt like there was so much mystery behind how it worked.
+
  Nikhila Iyer
  a. I chose this policy program specifically because I want to be able to translate data into understandable material and create actionable policy solutions.
  b. This week I became more comfortable with GIt and refreshed my knowledge through practice. I learned about the pathways and how it actually works, more than just the command routine.
 
 Audrey McIntyre
 a. I chose this program because I want to make the world a better place, and I think policy and data are both important tools for this.
-b. I've learned the basics of git! 
+b. I've learned the basics of git!
+
+Asif Bhatti
+a. I chose this program because I want to truly play in the middle of being a technologist and a business strategist (or policy strategist)
+b. I learned how to use git clone
