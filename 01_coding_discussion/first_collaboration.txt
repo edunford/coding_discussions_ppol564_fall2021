@@ -111,3 +111,7 @@ b. I learned what git is the difference between git and git hub.
 Julie Antão
 a. I decided to go to public policy school and DSPP specifically to hopefully work and make a difference in the policy world in regard to Technology and Data.
 b. I learned how to clone a repository and how to navigate my terminal better. 
+
+Morgan Zimmerman
+a. I chose to attend a public policy school because I wanted to find a practical and meaningful application for the analytical skills I have, so I'm looking forward to exploring different policy fields to find which I'm most passionate about.
+b. I learned about what GitHub actually is, and how to navigate my computer solely through a terminal.
