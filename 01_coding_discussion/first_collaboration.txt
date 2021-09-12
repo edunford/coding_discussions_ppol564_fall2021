@@ -98,3 +98,7 @@ b. I learned about the differences between git and github.
 David Lopez
 a. I decided to go to a public policy school to gain the tools needed to help make effective policy decisions.
 b. I learned how to use git
+
+Julie Antão
+a. I decided to go to public policy school and DSPP specifically to hopefully work and make a difference in the policy world in regard to Technology and Data.
+b. I learned how to clone a repository and how to navigate my terminal better. 
