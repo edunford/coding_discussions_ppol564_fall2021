@@ -102,3 +102,7 @@ b. I learned how to use git
 Kalika Tullock
 a. I came to this school in order to develop the statistical and computational skills I need for advanced data analysis. I am interested in applying this in the international economic development field, particularly with respect to workforce development and job creation.
 b. I learned what Git is and what Git Hub does.
+
+Naiqiu (Lawrence) Zhan
+a. I decided to go to a public policy school because my ex suggested me this program, and I think it is useful.
+b. I learned what git is the difference between git and git hub. 
