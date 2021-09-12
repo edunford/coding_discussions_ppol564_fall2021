@@ -94,3 +94,7 @@ b. I learned how to commit to GitHub with (hopefully) no merge conflicts!
 Abby Wolfe
 a. I chose to go to policy school because I want to reduce inequities in education and social policy at an institutional level while also using research driven by data science.
 b. I learned about the differences between git and github.
+
+David Lopez
+a. I decided to go to a public policy school to gain the tools needed to help make effective policy decisions.
+b. I learned how to use git
