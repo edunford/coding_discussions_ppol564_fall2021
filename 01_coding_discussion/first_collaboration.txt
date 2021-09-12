@@ -86,3 +86,7 @@ b. I learned how to use git clone
 Caroline Adams
 a. I chose this program because I am very passionate about improving health equity and believe that public policy is an important lever to use to ensure change is enacted at a population level. I hope to learn more about how policy and data science toolkits can be combined to accomplish this.
 b. I learned about how to use git, became more familiar with using Terminal on my laptop, and the importance of organizing my files.
+
+Shaila Sundram
+a. I chose this program because my passion lies in using the quantitative frameworks typically leveraged within engineering to represent, simulate, and interpret phenomenon in political systems.
+b. I learned how to commit to GitHub with (hopefully) no merge conflicts!
