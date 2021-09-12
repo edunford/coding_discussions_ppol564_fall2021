@@ -62,3 +62,7 @@ b. I learnt the importance of version control systems
 Cameron MacDonald
 a. I'm attending public policy school because I want to play a part in making policy decisions that are grounded in quantitative and qualitative evidence.
 b. I learned about a ton of different atom add-ons.
+
+Alvaro Altamirano
+a. I chose public policy to meet people who also care about social issues and to learn and apply new data science skills.
+b. I learned to use the'gitk' command on window's terminal.
