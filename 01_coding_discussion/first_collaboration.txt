@@ -58,3 +58,7 @@ b. I have learned a lot of R syntax!
 Sonali Subbu Rathinam
 a. I decided to attend policy school as I want to learn to use data for social welfare.
 b. I learnt the importance of version control systems
+
+Cameron MacDonald
+a. I'm attending public policy school because I want to play a part in making policy decisions that are grounded in quantitative and qualitative evidence.
+b. I learned about a ton of different atom add-ons.
