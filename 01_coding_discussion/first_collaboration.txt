@@ -62,3 +62,8 @@ b. I learnt the importance of version control systems
 Cameron MacDonald
 a. I'm attending public policy school because I want to play a part in making policy decisions that are grounded in quantitative and qualitative evidence.
 b. I learned about a ton of different atom add-ons.
+
+Joanne Lauer
+a. I chose this program because it combined public policy and data science, allowing me to combine my two passions and strengthen my data science skills.  
+b. I finally feel comfortable with git branches.  I've used git in the past but always felt like there was so much mystery behind how it worked.  
+ 
