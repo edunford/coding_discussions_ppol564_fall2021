@@ -90,3 +90,7 @@ b. I learned about how to use git, became more familiar with using Terminal on m
 Shaila Sundram
 a. I chose this program because my passion lies in using the quantitative frameworks typically leveraged within engineering to represent, simulate, and interpret phenomenon in political systems.
 b. I learned how to commit to GitHub with (hopefully) no merge conflicts!
+
+Abby Wolfe
+a. I chose to go to policy school because I want to reduce inequities in education and social policy at an institutional level while also using research driven by data science.
+b. I learned about the differences between git and github.
