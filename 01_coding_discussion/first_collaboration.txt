@@ -131,3 +131,7 @@ b. I learned how to use Github. I accidently removed everyone's work but because
 Ellis Obrien 
 a. I have a strong interest in the intersection of qualitative and quantitative research and how it can be used to enact policy change. The DSPP program gives me the skills for a career analyzing data for issues I care about such as climate change and economic policy. 
 b. I leaned about the importance of version control and how to work with git to do this. 
+
+Eileen(Yingjiang) Tao
+ a. I decided to attend public policy school to hone my data analysis skill to solve real-world problems.
+ b. I learned the vaule of github. It can help people work together effectively and is a good way to learn from others.
