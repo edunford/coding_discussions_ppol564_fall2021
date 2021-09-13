@@ -106,3 +106,7 @@ b. I learned what Git is and what Git Hub does.
 Lucienne Lavanya Julian 
 a. I have been very interested in both policy issues and data analytics/machine learning since my undergrad and so applied for this program. My key areas of interest in policy are socio-political issues, economic development(particularly macroeconomic policies) and education. 
 b. I have learnt a ton this week. In this class, I learnt to work with atom and hydrogen, and also using git from the command line.   
+
+Wenhui Yang
+a. I chose the DSPP program because the program offers the combination of public policy and data science, which can well prepare me for pursuing my career goal. 
+b. I learned the necessity and importance of version control and how to practice it with git.
