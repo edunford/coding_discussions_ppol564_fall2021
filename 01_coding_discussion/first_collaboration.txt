@@ -127,3 +127,7 @@ b. I learned the necessity and importance of version control and how to practice
 Goutham Yegappan
 a. I chose the DSPP program because I wanted to learn the ways in which economics, data science, and public policy intersect.
 b. I learned how to use Github. I accidently removed everyone's work but because of Github, the work was not lost. 
+
+Ellis Obrien 
+a. I have a strong interest in the intersection of qualitative and quantitative research and how it can be used to enact policy change. The DSPP program gives me the skills for a career analyzing data for issues I care about such as climate change and economic policy. 
+b. I leaned about the importance of version control and how to work with git to do this. 
