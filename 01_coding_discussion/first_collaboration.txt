@@ -135,3 +135,7 @@ b. I leaned about the importance of version control and how to work with git to 
 Eileen(Yingjiang) Tao
  a. I decided to attend public policy school to hone my data analysis skill to solve real-world problems.
  b. I learned the vaule of github. It can help people work together effectively and is a good way to learn from others.
+
+Alia Abdelkader
+a. I chose the DSPP program because I wanted to build my programming skills in a policy context and conduct meaningful research.
+b. I have learned about different IDEs and tools available to programmers to facilitate our work.
