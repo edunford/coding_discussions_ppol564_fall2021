@@ -123,3 +123,7 @@ b. I have learnt a ton this week. In this class, I learnt to work with atom and 
 Wenhui Yang
 a. I chose the DSPP program because the program offers the combination of public policy and data science, which can well prepare me for pursuing my career goal. 
 b. I learned the necessity and importance of version control and how to practice it with git.
+
+Goutham Yegappan
+a. I chose the DSPP program because I wanted to learn the ways in which economics, data science, and public policy intersect.
+b. I learned how to use Github. I accidently removed everyone's work but because of Github, the work was not lost. 
