@@ -1,0 +1,221 @@
+# Coding Discussion 02
+
+## Instructions
+
+In the repository, I have provided a dataset from the New York Times on the number of COVID cases and deaths by day, from January 21 through September 2 2020. Note that states do not appear in a dataset prior to the days in which they had their first confirmed case.
+
+The chunk of code below imports the data for this assignment. We'll talk more on Week 5 regarding what this code is doing.
+
+```python
+## Read in the data (we would provide this)
+import csv
+with open('/Users/abhatti/Documents/masterInScience/PPOL564/coding_discussions_ppol564_fall2021/02_coding_discussion/us-states.csv') as file:
+    state_covid_data = []
+    for row in csv.reader(file):
+        state_covid_data.append(row)
+
+len(state_covid_data)
+```
+
+Note that the data is imported as a **nested list**. Below I've sliced the list to print off the first 5 rows of the data. Note that the first row contains the variable names.
+```python
+state_covid_data[:5]
+```
+```
+[['date', 'state', 'fips', 'cases', 'deaths'],
+ ['2020-01-21', 'Washington', '53', '1', '0'],
+ ['2020-01-22', 'Washington', '53', '1', '0'],
+ ['2020-01-23', 'Washington', '53', '1', '0'],
+ ['2020-01-24', 'Illinois', '17', '1', '0']]
+```
+
+Please use these data to answer the following questions.
+
+## Question
+
+### (1) Count up the number of _unique_ dates in the data.
+
+```python
+"""
+This function returns a count of the unique number of unique_dates
+
+arguments
+--------
+None
+
+outputs
+--------
+An integer value of unqiue count of dates in data set
+"""
+
+def unqiue_dates(): #define the number of unique dates function
+
+
+  # Create an empty list to store index of unique dates
+  date_index = []
+
+  # Iterate through each date function in the state_covid_data September
+  for obs in state_covid_data:
+    # Look at only the date of the obs. Given the prior iteration returns a list we need to look at the first column of the returned list.
+    obs_date = obs[0] #zero indexed
+
+    # Check if this date is in the date_index
+    if obs_date not in date_index:
+        date_index.append(obs_date)
+    # If the date is in the list, the function will move to the next date to add into the date_index
+
+  #Count the number of unqiue dates in the date_index
+  unique_dates_cnt = len(date_index)
+
+  # Display the count of unique unique_dates_cnt
+  return unique_dates_cnt
+
+# We will run the unique dates function to the find the number of unqiue dates
+unqiue_dates()
+
+```
+
+### (2) Find the first date in which the District of Columbia recorded a case.
+
+```python
+"""
+This function returns the first date there was a case in DC
+
+arguments
+--------
+None
+
+outputs
+--------
+An string value of the date when there was a case in DC
+"""
+
+# sort COVID_table by date
+def covid_date_sort(x):
+  return x[0]
+
+state_covid_data_dateSort = sorted(state_covid_data[1:], key = covid_date_sort) # start at row 1 b/c first row is label
+state_covid_data_dateSort
+
+def first_date_in_DC():
+
+
+  # create an empty string for dates
+  first_date = ""
+
+  #Iterate through each observation in dataset
+  for obs in state_covid_data_dateSort:
+    # pull the COVID date and state
+    covid_date = str(obs[0])
+    covid_state = str(obs[1])
+
+
+    if covid_state == "District of Columbia":   # filter for only DC
+      # record the date into the first_date_DC array given the data is already sorted by date
+      first_date = covid_date
+
+      break #break loop so that it doesn't run in perpurity
+
+  return first_date #return first date for DC
+
+
+first_date_in_DC()
+
+```
+
+
+
+### (3) Write a function that takes in a _state name_ as input (e.g. "Wisconsin") and outputs the date of its first case.
+
+```python
+"""
+This function returns the date when there was first recorded case in a state
+
+arguments
+--------
+state inputed as a string (no abbreviation for state)
+
+outputs
+--------
+returns the date when there was first recorded case in a stat
+"""
+def first_case(state): #Define a function first case
+  first_date_cv19='' # Define empty string for first date to returns
+  for obs in state_covid_data_dateSort: #Iterate through state covid dataset
+      # pull the COVID date and state
+      covid_date = str(obs[0])
+      covid_state = str(obs[1])
+
+      if covid_state == state:   # filter for only state
+        # record the date into the first_date_cv19 list given the data is already sorted by date
+        first_date_cv19 = covid_date
+
+        break #break loop so that it doesn't run in perpurity
+
+  return first_date_cv19 #return first date for DC
+
+# For example:
+first_case("Wisconsin")
+# > "2020-02-05"
+```
+
+
+### (Optional) Bonus
+
+Write a function that takes in a _state name_ as input (e.g. "Wisconsin") and outputs the date when the number of reported cases within the state exceeded 1000.
+```python
+
+"""
+This function returns the date when there was first recorded case in a state
+
+arguments
+--------
+state inputed as a string (no abbreviation for state)
+
+outputs
+--------
+returns the date when there was first recorded case in a state where there was a 1000 more cases
+"""
+
+def locate_date_1000(state): #Define a function first case
+
+  date_1000='' # Define empty string for first date to returns
+  for obs in state_covid_data_dateSort: #Iterate through state covid dataset
+      # pull the COVID date, state, and covid_cases
+      covid_date = str(obs[0])
+      covid_state = str(obs[1])
+      covid_cases = int(obs[3])
+
+      if covid_state == state and covid_cases > 1000:   # filter for only state and covid cases > 1000
+        # record the date into the date_1000 list given the data is already sorted by date
+        date_1000 = covid_date
+
+        break #break loop so that it doesn't run in perpurity
+
+  return date_1000 #return first date for DC
+
+
+# For example:
+locate_date_1000("Wisconsin")
+# > "2020-04-03"
+```
+
+
+## Submit
+
+Please submit your answer as a Jupyter Notebook. Title the notebook with your lastname_firstname_netid (`doe_john_jd568.ipynb`). Be sure to submit a docstring indicating what your function does and all the arguments it takes.  As per usual, please submit your answer to the class repository by the Sunday 11:59pm deadline.
+
+
+## Things to keep in mind
+
+To answer this question: we'll want to use both of what we learned regarding loops, data types and functions. Specifically, since the data is read in as a nested list, you'll want to be familiar with the `list` methods and loops.
+
+In addition, keep in mind that the first row entry in the data (`state_covid_data[0]`) corresponds with variable names, but is not a data entry itself.
+
+## Aim
+
+In this coding discussion, we will have done three things:
+
+1. Subsetted and worked with real data represented as a nested list
+2. Practiced writing loops to move through nested data structures
+3. Practiced writing functions
