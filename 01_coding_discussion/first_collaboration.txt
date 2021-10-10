@@ -110,27 +110,27 @@ b. I learned what git is the difference between git and git hub.
 
 Julie Antão
 a. I decided to go to public policy school and DSPP specifically to hopefully work and make a difference in the policy world in regard to Technology and Data.
-b. I learned how to clone a repository and how to navigate my terminal better. 
+b. I learned how to clone a repository and how to navigate my terminal better.
 
 Morgan Zimmerman
 a. I chose to attend a public policy school because I wanted to find a practical and meaningful application for the analytical skills I have, so I'm looking forward to exploring different policy fields to find which I'm most passionate about.
 b. I learned about what GitHub actually is, and how to navigate my computer solely through a terminal.
 
-Lucienne Lavanya Julian 
-a. I have been very interested in both policy issues and data analytics/machine learning since my undergrad and so applied for this program. My key areas of interest in policy are socio-political issues, economic development(particularly macroeconomic policies) and education. 
-b. I have learnt a ton this week. In this class, I learnt to work with atom and hydrogen, and also using git from the command line.   
+Lucienne Lavanya Julian
+a. I have been very interested in both policy issues and data analytics/machine learning since my undergrad and so applied for this program. My key areas of interest in policy are socio-political issues, economic development(particularly macroeconomic policies) and education.
+b. I have learnt a ton this week. In this class, I learnt to work with atom and hydrogen, and also using git from the command line.
 
 Wenhui Yang
-a. I chose the DSPP program because the program offers the combination of public policy and data science, which can well prepare me for pursuing my career goal. 
+a. I chose the DSPP program because the program offers the combination of public policy and data science, which can well prepare me for pursuing my career goal.
 b. I learned the necessity and importance of version control and how to practice it with git.
 
 Goutham Yegappan
 a. I chose the DSPP program because I wanted to learn the ways in which economics, data science, and public policy intersect.
-b. I learned how to use Github. I accidently removed everyone's work but because of Github, the work was not lost. 
+b. I learned how to use Github. I accidently removed everyone's work but because of Github, the work was not lost.
 
-Ellis Obrien 
-a. I have a strong interest in the intersection of qualitative and quantitative research and how it can be used to enact policy change. The DSPP program gives me the skills for a career analyzing data for issues I care about such as climate change and economic policy. 
-b. I leaned about the importance of version control and how to work with git to do this. 
+Ellis Obrien
+a. I have a strong interest in the intersection of qualitative and quantitative research and how it can be used to enact policy change. The DSPP program gives me the skills for a career analyzing data for issues I care about such as climate change and economic policy.
+b. I leaned about the importance of version control and how to work with git to do this.
 
 Eileen(Yingjiang) Tao
  a. I decided to attend public policy school to hone my data analysis skill to solve real-world problems.
@@ -139,3 +139,7 @@ Eileen(Yingjiang) Tao
 Alia Abdelkader
 a. I chose the DSPP program because I wanted to build my programming skills in a policy context and conduct meaningful research.
 b. I have learned about different IDEs and tools available to programmers to facilitate our work.
+
+Aaron Genin
+a. My interests in quantitative analysis long standing desire to develop coding skills informed my choice to join the DSPP program.
+b. I have learned how to navigate my computer through the terminal exclusively and transferring data through a repository.
