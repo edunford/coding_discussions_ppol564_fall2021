@@ -10,7 +10,7 @@ Please break the data up into a training (1600 entries, 80%) and test dataset (4
 
 Build a Naive Bayesian Classifier from scratch that tries to predict whether a respondent will vote in a presidential election or not, pr(Vote==1). The classifier must be built from scratch. Do not use a third party ML or statistical package. 
 
-Run your algorithm and see how it predicts on the test data. Use the `sklearn.metrics` library to calculate the predictive accuracy and the area underneath the ROC curve. 
+Run your algorithm and see how it predicts on the test data by calculating the predictive accuracy. 
 
 Does your model perform better than chance (i.e. coin flip)?
 
